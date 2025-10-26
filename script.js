@@ -33,4 +33,4 @@ clearBtn.addEventListener('click', () => {
     .forEach(li => li.remove());
 });
 
-// Change 2
+// Cha 2
